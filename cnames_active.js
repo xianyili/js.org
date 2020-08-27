@@ -429,6 +429,7 @@ var cnames_active = {
   "codepan": "egoist.github.io/codepan",
   "codesurfer": "code-surfer.netlify.com", // noCF
   "codinsky": "izhaki.github.io/codinsky",
+  "codenic": "xianyili.github.io/codenic.js.org",
   "coffea": "caffeinery.github.io/coffea",
   "coffstation": "coffstation.github.io",
   "coir": "channg.github.io/coir",
